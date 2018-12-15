@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="planned_task" label="Service Improvement Phase" max_length="40" name="x_275670_serimprov_service_improvement_phase" type="collection"/>
+    <element extends="planned_task" label="Service Improvement Phase" max_length="40" name="x_275670_serimprov_service_improvement_phase" type="collection">
+        <element label="Why this initiative is important" max_length="999" name="why_important" type="string"/>
+    </element>
 </database>
