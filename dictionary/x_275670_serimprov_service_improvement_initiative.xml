@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="planned_task" label="Service Improvement Initiative" max_length="40" name="x_275670_serimprov_service_improvement_initiative" sizeclass="3" type="collection">
+        <element choice="3" default="1" label="Benefits" max_length="40" name="benefit" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Medium" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Large" sequence="30" value="3"/>
+            </choice>
+        </element>
+        <element choice="3" default="1" label="Effort estimate" max_length="40" name="effort_estimate" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Extra large" value="4"/>
+                <element inactive_on_update="false" label="Large" value="3"/>
+                <element inactive_on_update="false" label="Medium" value="2"/>
+                <element inactive_on_update="false" label="Small" value="1"/>
+            </choice>
+        </element>
+        <element label="Service" max_length="32" name="service" reference="x_275670_teleserv_telehealth_service" type="reference"/>
+        <element label="Service coordinator" max_length="32" name="service_coordinator" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Why this initiative is important" max_length="999" name="why_important" type="string"/>
+    </element>
+</database>

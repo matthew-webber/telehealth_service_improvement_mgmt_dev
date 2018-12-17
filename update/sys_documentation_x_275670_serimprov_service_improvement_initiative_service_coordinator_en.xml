@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="service_coordinator" label="Service coordinator" language="en" table="x_275670_serimprov_service_improvement_initiative">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>service_coordinator</element>
+            <help/>
+            <hint/>
+            <label>Service coordinator</label>
+            <language>en</language>
+            <name>x_275670_serimprov_service_improvement_initiative</name>
+            <plural>Service coordinators</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-15 00:55:15</sys_created_on>
+            <sys_id>412f10c7db16230027d7fbef299619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Service coordinator</sys_name>
+            <sys_package display_value="Service Improvement Management" source="x_275670_serimprov">dcd40487dbd2230027d7fbef2996196e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Improvement Management">dcd40487dbd2230027d7fbef2996196e</sys_scope>
+            <sys_update_name>sys_documentation_x_275670_serimprov_service_improvement_initiative_service_coordinator_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-15 00:55:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
