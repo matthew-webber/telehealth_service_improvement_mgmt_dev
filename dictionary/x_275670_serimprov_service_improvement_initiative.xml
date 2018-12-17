@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="planned_task" label="Service Improvement Initiative" max_length="40" name="x_275670_serimprov_service_improvement_initiative" type="collection">
+    <element extends="planned_task" label="Service Improvement Initiative" max_length="40" name="x_275670_serimprov_service_improvement_initiative" sizeclass="1" type="collection">
         <element choice="3" default="1" label="Benefits" max_length="40" name="benefit" type="integer">
             <choice>
                 <element inactive_on_update="false" label="Low" sequence="10" value="1"/>
