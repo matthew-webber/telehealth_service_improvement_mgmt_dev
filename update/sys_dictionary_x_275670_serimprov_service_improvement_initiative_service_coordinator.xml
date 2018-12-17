@@ -55,7 +55,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-15 00:55:15</sys_created_on>
-        <sys_id>be85f49fdb12230027d7fbef29961984</sys_id>
+        <sys_id>e4c38a3bdb56630027d7fbef299619a8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service coordinator</sys_name>
         <sys_package display_value="Service Improvement Management" source="x_275670_serimprov">dcd40487dbd2230027d7fbef2996196e</sys_package>
@@ -63,7 +63,7 @@
         <sys_scope display_value="Service Improvement Management">dcd40487dbd2230027d7fbef2996196e</sys_scope>
         <sys_update_name>sys_dictionary_x_275670_serimprov_service_improvement_initiative_service_coordinator</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-12-15 21:11:39</sys_updated_on>
+        <sys_updated_on>2018-12-17 16:10:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
